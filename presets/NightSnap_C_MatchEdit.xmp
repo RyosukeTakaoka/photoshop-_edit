@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="82EB3907213348CFB0DDB5399BE9A888"
+   crs:UUID="2DAFDDFF3A4047CF815A3D6F0B56760E"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -17,77 +17,77 @@
    crs:ContactInfo=""
    crs:Version="15.0"
    crs:ProcessVersion="11.0"
-   crs:IncrementalTemperature="-6"
-   crs:IncrementalTint="+2"
-   crs:Exposure2012="-0.10"
-   crs:Contrast2012="+12"
-   crs:Highlights2012="-25"
-   crs:Shadows2012="-10"
-   crs:Whites2012="+8"
-   crs:Blacks2012="-8"
-   crs:Texture="+5"
-   crs:Clarity2012="+8"
-   crs:Dehaze="+3"
-   crs:Vibrance="-18"
-   crs:Saturation="-8"
+   crs:IncrementalTemperature="0"
+   crs:IncrementalTint="0"
+   crs:Exposure2012="0"
+   crs:Contrast2012="0"
+   crs:Highlights2012="0"
+   crs:Shadows2012="0"
+   crs:Whites2012="0"
+   crs:Blacks2012="0"
+   crs:Texture="0"
+   crs:Clarity2012="-5"
+   crs:Dehaze="0"
+   crs:Vibrance="0"
+   crs:Saturation="0"
    crs:HueAdjustmentRed="0"
-   crs:HueAdjustmentOrange="-2"
-   crs:HueAdjustmentYellow="-8"
-   crs:HueAdjustmentGreen="-5"
-   crs:HueAdjustmentAqua="-5"
-   crs:HueAdjustmentBlue="-5"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
    crs:HueAdjustmentPurple="0"
    crs:HueAdjustmentMagenta="0"
-   crs:SaturationAdjustmentRed="-8"
-   crs:SaturationAdjustmentOrange="-6"
-   crs:SaturationAdjustmentYellow="-20"
-   crs:SaturationAdjustmentGreen="-25"
-   crs:SaturationAdjustmentAqua="-10"
-   crs:SaturationAdjustmentBlue="-15"
-   crs:SaturationAdjustmentPurple="-20"
-   crs:SaturationAdjustmentMagenta="-20"
+   crs:SaturationAdjustmentRed="0"
+   crs:SaturationAdjustmentOrange="0"
+   crs:SaturationAdjustmentYellow="0"
+   crs:SaturationAdjustmentGreen="0"
+   crs:SaturationAdjustmentAqua="0"
+   crs:SaturationAdjustmentBlue="0"
+   crs:SaturationAdjustmentPurple="0"
+   crs:SaturationAdjustmentMagenta="0"
    crs:LuminanceAdjustmentRed="0"
-   crs:LuminanceAdjustmentOrange="+6"
-   crs:LuminanceAdjustmentYellow="-8"
-   crs:LuminanceAdjustmentGreen="-5"
-   crs:LuminanceAdjustmentAqua="-5"
-   crs:LuminanceAdjustmentBlue="-12"
+   crs:LuminanceAdjustmentOrange="0"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
    crs:LuminanceAdjustmentPurple="0"
    crs:LuminanceAdjustmentMagenta="0"
-   crs:SplitToningShadowHue="215"
-   crs:SplitToningShadowSaturation="20"
-   crs:SplitToningHighlightHue="32"
-   crs:SplitToningHighlightSaturation="18"
-   crs:SplitToningBalance="-10"
-   crs:ColorGradeMidtoneHue="230"
-   crs:ColorGradeMidtoneSat="4"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="40"
+   crs:SplitToningHighlightSaturation="10"
+   crs:SplitToningBalance="0"
+   crs:ColorGradeMidtoneHue="0"
+   crs:ColorGradeMidtoneSat="0"
    crs:ColorGradeShadowLum="0"
    crs:ColorGradeMidtoneLum="0"
    crs:ColorGradeHighlightLum="0"
-   crs:ColorGradeBlending="60"
+   crs:ColorGradeBlending="50"
    crs:ColorGradeGlobalHue="0"
    crs:ColorGradeGlobalSat="0"
    crs:ColorGradeGlobalLum="0"
-   crs:Sharpness="25"
+   crs:Sharpness="15"
    crs:SharpenRadius="+1.0"
    crs:SharpenDetail="20"
    crs:SharpenEdgeMasking="50"
    crs:LuminanceSmoothing="5"
    crs:ColorNoiseReduction="10"
-   crs:PostCropVignetteAmount="-15"
+   crs:PostCropVignetteAmount="-10"
    crs:PostCropVignetteMidpoint="40"
    crs:PostCropVignetteFeather="70"
    crs:PostCropVignetteRoundness="-5"
    crs:PostCropVignetteStyle="1"
    crs:PostCropVignetteHighlightContrast="25"
-   crs:GrainAmount="40"
+   crs:GrainAmount="30"
    crs:GrainSize="25"
-   crs:GrainFrequency="60"
+   crs:GrainFrequency="50"
    crs:ToneCurveName2012="Custom"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">Night Snap B - Matte Blue</rdf:li>
+     <rdf:li xml:lang="x-default">Night Snap C - Match Edit</rdf:li>
     </rdf:Alt>
    </crs:Name>
    <crs:ShortName>
@@ -107,34 +107,43 @@
    </crs:Group>
    <crs:Description>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">Tuned to the reference band photo: lifted matte blacks, blue shadows, warm highlights, grain. Masks for people/background must be added by hand.</rdf:li>
+     <rdf:li xml:lang="x-default">Curves measured from the original vs. the edited example: lifted blacks, blue shadows, soft grain. Masks for people/background must be added by hand.</rdf:li>
     </rdf:Alt>
    </crs:Description>
    <crs:ToneCurvePV2012>
     <rdf:Seq>
-     <rdf:li>0, 34</rdf:li>
-     <rdf:li>40, 44</rdf:li>
-     <rdf:li>96, 94</rdf:li>
-     <rdf:li>160, 168</rdf:li>
-     <rdf:li>220, 228</rdf:li>
+     <rdf:li>0, 26</rdf:li>
+     <rdf:li>48, 46</rdf:li>
+     <rdf:li>96, 80</rdf:li>
+     <rdf:li>144, 150</rdf:li>
+     <rdf:li>200, 198</rdf:li>
      <rdf:li>255, 246</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012>
    <crs:ToneCurvePV2012Red>
     <rdf:Seq>
-     <rdf:li>0, 0</rdf:li>
+     <rdf:li>0, 2</rdf:li>
+     <rdf:li>64, 53</rdf:li>
+     <rdf:li>128, 117</rdf:li>
+     <rdf:li>192, 192</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Red>
    <crs:ToneCurvePV2012Green>
     <rdf:Seq>
-     <rdf:li>0, 0</rdf:li>
+     <rdf:li>0, 6</rdf:li>
+     <rdf:li>64, 60</rdf:li>
+     <rdf:li>128, 133</rdf:li>
+     <rdf:li>192, 191</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Green>
    <crs:ToneCurvePV2012Blue>
     <rdf:Seq>
-     <rdf:li>0, 0</rdf:li>
+     <rdf:li>0, 2</rdf:li>
+     <rdf:li>64, 76</rdf:li>
+     <rdf:li>128, 149</rdf:li>
+     <rdf:li>192, 201</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
