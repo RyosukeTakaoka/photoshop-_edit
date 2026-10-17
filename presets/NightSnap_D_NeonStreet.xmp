@@ -1,0 +1,152 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="B487CC54F14C46728B567303B449DCD4"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="15.0"
+   crs:ProcessVersion="11.0"
+   crs:IncrementalTemperature="0"
+   crs:IncrementalTint="0"
+   crs:Exposure2012="0"
+   crs:Contrast2012="-5"
+   crs:Highlights2012="-70"
+   crs:Shadows2012="+25"
+   crs:Whites2012="-35"
+   crs:Blacks2012="0"
+   crs:Texture="0"
+   crs:Clarity2012="-5"
+   crs:Dehaze="0"
+   crs:Vibrance="-15"
+   crs:Saturation="-5"
+   crs:HueAdjustmentRed="0"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="-25"
+   crs:SaturationAdjustmentOrange="-10"
+   crs:SaturationAdjustmentYellow="-25"
+   crs:SaturationAdjustmentGreen="-35"
+   crs:SaturationAdjustmentAqua="-15"
+   crs:SaturationAdjustmentBlue="-10"
+   crs:SaturationAdjustmentPurple="-35"
+   crs:SaturationAdjustmentMagenta="-40"
+   crs:LuminanceAdjustmentRed="-10"
+   crs:LuminanceAdjustmentOrange="+10"
+   crs:LuminanceAdjustmentYellow="-10"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="-15"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="40"
+   crs:SplitToningHighlightSaturation="10"
+   crs:SplitToningBalance="0"
+   crs:ColorGradeMidtoneHue="0"
+   crs:ColorGradeMidtoneSat="0"
+   crs:ColorGradeShadowLum="0"
+   crs:ColorGradeMidtoneLum="0"
+   crs:ColorGradeHighlightLum="0"
+   crs:ColorGradeBlending="50"
+   crs:ColorGradeGlobalHue="0"
+   crs:ColorGradeGlobalSat="0"
+   crs:ColorGradeGlobalLum="0"
+   crs:Sharpness="15"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="20"
+   crs:SharpenEdgeMasking="50"
+   crs:LuminanceSmoothing="5"
+   crs:ColorNoiseReduction="10"
+   crs:PostCropVignetteAmount="-10"
+   crs:PostCropVignetteMidpoint="40"
+   crs:PostCropVignetteFeather="70"
+   crs:PostCropVignetteRoundness="-5"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="25"
+   crs:GrainAmount="30"
+   crs:GrainSize="25"
+   crs:GrainFrequency="50"
+   crs:ToneCurveName2012="Custom"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Night Snap D - Neon Street</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Night Street Snap</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">For bright neon streets: protects signs from blowing out, keeps faces bright, mutes neon, same blue matte look as C. Masks for people/background must be added by hand.</rdf:li>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 22</rdf:li>
+     <rdf:li>48, 50</rdf:li>
+     <rdf:li>96, 100</rdf:li>
+     <rdf:li>144, 154</rdf:li>
+     <rdf:li>200, 202</rdf:li>
+     <rdf:li>255, 238</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 2</rdf:li>
+     <rdf:li>64, 53</rdf:li>
+     <rdf:li>128, 117</rdf:li>
+     <rdf:li>192, 192</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 6</rdf:li>
+     <rdf:li>64, 60</rdf:li>
+     <rdf:li>128, 133</rdf:li>
+     <rdf:li>192, 191</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 2</rdf:li>
+     <rdf:li>64, 76</rdf:li>
+     <rdf:li>128, 149</rdf:li>
+     <rdf:li>192, 201</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
